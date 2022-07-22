@@ -7,7 +7,7 @@ About
 
 - 📫 How to reach me **celio.ps.jr@outlook.com**
 
-- 📄 Know about my experiences [My Linkedin: https://www.linkedin.com/in/celiosilvajr/](My Linkedin: https://www.linkedin.com/in/celiosilvajr/)
+- 📄 Know about my experiences [My Linkedin: https://www.linkedin.com/in/celiosilvajr/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
