@@ -1,7 +1,7 @@
 # MadeCel
 About
 <h1 align="center">Hi 👋, I'm Célio</h1>
-<h3 align="center">A passionate Full stack developer with focus in Web developer and cloud computing</h3>
+<h3 align="center">A passionate full stack developer with focus in web developer and cloud computing</h3>
 
 - 🌱 I’m currently learning **Javascript, python, PHP, Ruby and ERP Cloud**
 
